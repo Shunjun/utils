@@ -1,15 +1,12 @@
 # @shunjun/utils
 
-<!-- [![NPM Version][npm-version-src]][npm-version-href]
+[![NPM Version][npm-version-src]][npm-version-href]
 [![NPM Downloads][npm-downloads-src]][npm-downloads-href]
 [![bundle][bundle-src]][bundle-href]
 [![JSDocs][jsdocs-src]][jsdocs-href]
-[![License][license-src]][license-href] -->
+[![License][license-src]][license-href]
 
-_description_
-
-> **Note**:
-> Replace `@shunjun/utils`, `_description_` globally to use this template.
+Personal utils collection
 
 ## Sponsors
 

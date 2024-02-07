@@ -1,10 +1,10 @@
 {
-  "name": "utils",
+  "name": "@shunjun/utils",
   "type": "module",
   "version": "0.0.1",
   "packageManager": "pnpm@8.12.1",
-  "description": "_description_",
-  "author": "Shunzi<tobyzsj@gmail.com>",
+  "description": "Personal utils collection",
+  "author": "ShunJun<tobyzsj@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/Shunjun/utils#readme",
   "repository": {
@@ -40,6 +40,7 @@
     "dev": "unbuild --stub",
     "lint": "eslint .",
     "release": "bumpp && npm publish",
+    "pub": "npm publish --access=public",
     "start": "esno src/index.ts",
     "test": "vitest",
     "typecheck": "tsc --noEmit",
